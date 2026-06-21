@@ -1,2 +1,14 @@
 # dongqiudi-star-notes
-HTML page archive and documentation
+
+页面发布与维护记录
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
